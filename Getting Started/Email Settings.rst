@@ -13,7 +13,7 @@ Routing Incoming Emails
 
 Setting up your system to accept emails varies from system to system and depends on your personal preference. osTicket currently supports piping (aliases) and POP3/IMAP polling methods for routing incoming emails. Tickets are routed to the department and assigned a default priority associated with the email.
 
-To enable incoming email fetching, in the Admin panel go to Settings and Email, and check the box for Email Fetching to enable it. It is disabled by default.
+To enable incoming email fetching, in the Admin panel go to Email and Settings, and check the box for Email Fetching to enable it. It is disabled by default.
 
 **EMAIL PIPING**
 
